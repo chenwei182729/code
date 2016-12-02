@@ -1,0 +1,3 @@
+/home/hadoop/Cproj/sourcecode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hadoop/Cproj/sourcecode/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hadoop/Cproj/sourcecode/cmake-build-debug/CMakeFiles/apue_3e.dir

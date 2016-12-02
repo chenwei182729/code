@@ -1,6 +1,7 @@
 //生k个成0~n-1之间的随机数(k<n) 
 #include<iostream>
 #include<time.h>
+#include <stdlib.h>     /* srand, rand */
 using namespace std; 
 int const N = 10000;
 int a[N];

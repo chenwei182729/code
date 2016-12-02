@@ -1,0 +1,20 @@
+#include<stdio.h>
+void f1 () __attribute__ ((constructor));
+void f2 () __attribute__ ((destructor));
+int
+main ()
+{
+  puts ("main function!\n");
+}
+
+void
+f1 ()
+{
+  puts ("before main function!\n");
+};
+
+void
+f2 ()
+{
+  puts ("after main function!\n");
+};
